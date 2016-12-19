@@ -1,0 +1,4 @@
+#忽略pyhton生成的.pyc 文件和.idea文件夹
+
+*.idea
+*.pyc
